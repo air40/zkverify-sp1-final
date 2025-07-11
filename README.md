@@ -1,2 +1,3 @@
-# zkverify-sp1-final
-zkVerify Phase 2 | SP1-compatible circuit with registered verification key. Proofs submitted using zkVerify Relayer API.
+# zkVerify SP1 Relayer Demo
+
+This project integrates SP1-compatible proof with zkVerify API.
